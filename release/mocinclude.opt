@@ -1,0 +1,46 @@
+-IC:/Qt/5.15.15/msvc2019/mkspecs/win32-msvc
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include/FramelessHelper
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include/FramelessHelper/Core
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include/FramelessHelper/Core/private
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/qmake/inc/core
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include/FramelessHelper
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include/FramelessHelper/Quick
+-IC:/Users/ADMIN/Documents/Personal Projects/Time Schedular/framelesshelper/include/FramelessHelper/Quick/private
+-IC:/Qt/5.15.15/msvc2019/include/QtQuick/5.15.15
+-IC:/Qt/5.15.15/msvc2019/include/QtQuick/5.15.15/QtQuick
+-IC:/Qt/5.15.15/msvc2019/include/QtQuickTemplates2/5.15.15
+-IC:/Qt/5.15.15/msvc2019/include/QtQuickTemplates2/5.15.15/QtQuickTemplates2
+-IC:/Qt/5.15.15/msvc2019/include
+-IC:/Qt/5.15.15/msvc2019/include/QtQuickTemplates2
+-IC:/Qt/5.15.15/msvc2019/include/QtQuickControls2/5.15.15
+-IC:/Qt/5.15.15/msvc2019/include/QtQuickControls2/5.15.15/QtQuickControls2
+-IC:/Qt/5.15.15/msvc2019/include/QtQuickControls2
+-IC:/Qt/5.15.15/msvc2019/include/QtQuick
+-IC:/Qt/5.15.15/msvc2019/include/QtSvg
+-IC:/Qt/5.15.15/msvc2019/include/QtWidgets
+-IC:/Qt/5.15.15/msvc2019/include/QtGui/5.15.15
+-IC:/Qt/5.15.15/msvc2019/include/QtGui/5.15.15/QtGui
+-IC:/Qt/5.15.15/msvc2019/include/QtGui
+-IC:/Qt/5.15.15/msvc2019/include/QtANGLE
+-IC:/Qt/5.15.15/msvc2019/include/QtQmlModels/5.15.15
+-IC:/Qt/5.15.15/msvc2019/include/QtQmlModels/5.15.15/QtQmlModels
+-IC:/Qt/5.15.15/msvc2019/include/QtQmlModels
+-IC:/Qt/5.15.15/msvc2019/include/QtQml/5.15.15
+-IC:/Qt/5.15.15/msvc2019/include/QtQml/5.15.15/QtQml
+-IC:/Qt/5.15.15/msvc2019/include/QtQml
+-IC:/Qt/5.15.15/msvc2019/include/QtNetwork
+-IC:/Qt/5.15.15/msvc2019/include/QtXml
+-IC:/Qt/5.15.15/msvc2019/include/QtCore/5.15.15
+-IC:/Qt/5.15.15/msvc2019/include/QtCore/5.15.15/QtCore
+-IC:/Qt/5.15.15/msvc2019/include/QtCore
+-IC:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\ATLMFC\include
+-IC:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include
+-IC:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt

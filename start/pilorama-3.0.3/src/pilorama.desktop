@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=3.0.2
+Name=Pilorama
+Comment=Advanced Timeboxing Tool
+Exec=Pilorama
+Terminal=false
+Icon=Pilorama
+Categories=Office;Clock;
+GenericName=Timer
