@@ -6,7 +6,7 @@
 ![Pilorama-Dark](https://github.com/cppqtdev/Pilorama/blob/main/start/pilorama-3.0.3/assets/dark.png)
 
 
-# <a href="//pilorama.app">Updated Pilorama</a>
+# <a href="#">Updated Pilorama</a>
 
 *Advanced [Timeboxing](https://en.wikipedia.org/wiki/Timeboxing) Tool*
 
